@@ -3,11 +3,11 @@
 <h1 align="center">Hi 👋, my name is Tayden Flitcroft</h1>
 <h3 align="center">A passionate software engineer currently located in San Antonio, Texas</h3>
 
-- 👨‍💻 All of my projects are available at [taydenflitcroft.com](taydenflitcroft.com)
+- 👨‍💻 All of my projects are available at [taydenflitcroft.com](https://www.taydenflitcroft.com)
 
 - 📫 Please reach out to me at **contact@taydenflitcroft.com**
 
-- 📄 Know about my experiences [taydenflitcroft.com/resume](taydenflitcroft.com/resume)
+- 📄 Know about my experiences [taydenflitcroft.com/resume](https://www.taydenflitcroft.com/resume)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
